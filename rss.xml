@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[1thought.ca]]></title>
+        <description><![CDATA[1thought.ca]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sun, 22 Nov 2015 20:16:14 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Have a thought to share?]]></title>
+            <description><![CDATA[<article><h1>Have a thought to share?</h1><p>Got a thought you'd like to share with us? Send it to info@1thought.ca and we'll have a look!</p></article>]]></description>
+            <link>undefinedhave-a-thought-to-share/index.html</link>
+            <guid isPermaLink="false">7ca8ff02-fdb9-496c-9ee6-1898d6a2f157</guid>
+            <pubDate>Sun, 22 Nov 2015 20:15:01 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
