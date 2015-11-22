@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: 'Our first thought we leave for you while we build the site!'
-datePublished: '2015-11-22T21:14:32.262Z'
-dateModified: '2015-11-22T21:14:29.398Z'
+datePublished: '2015-11-22T23:08:23.497Z'
+dateModified: '2015-11-22T23:08:20.430Z'
 title: '1Thought for November 22, 2015'
 author: []
 sourcePath: _posts/2015-11-22-1thought-for-november-22-2015.md
