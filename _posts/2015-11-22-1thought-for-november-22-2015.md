@@ -1,13 +1,13 @@
 ---
-inFeed: false
+inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
 starred: true
 keywords: []
 description: 'Our first thought we leave for you while we build the site!'
-datePublished: '2015-11-22T21:11:44.546Z'
-dateModified: '2015-11-22T21:11:34.993Z'
+datePublished: '2015-11-22T21:12:31.032Z'
+dateModified: '2015-11-22T21:12:28.087Z'
 title: '1Thought for November 22, 2015'
 author: []
 sourcePath: _posts/2015-11-22-1thought-for-november-22-2015.md
@@ -19,7 +19,7 @@ publisher:
   url: null
   favicon: null
 url: 1thought-for-november-22-2015/index.html
-_type: Blurb
+_type: Article
 
 ---
 We're live! We're building content on our new platform and will be launching early 2016\. For now, we leave you with this:
