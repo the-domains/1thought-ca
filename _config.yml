@@ -2,12 +2,13 @@ name: 1thought.ca
 favicon: null
 layout_spectrum: 0.5938115653116256
 typography_spectrum: 0.8843900277279317
+title: 1thought.ca
 cta:
   domain: null
   bucket: null
   version: null
 analytics:
-  google: null
+  google: UA-70458791-1
   facebook: null
   twitter: null
 opengraph:
