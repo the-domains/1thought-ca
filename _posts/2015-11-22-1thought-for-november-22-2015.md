@@ -4,11 +4,11 @@ hasPage: false
 inNav: false
 isBasedOnUrl: null
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: 'Our first thought we leave for you while we build the site!'
-datePublished: '2015-11-22T20:31:11.215Z'
-dateModified: '2015-11-22T20:30:59.103Z'
+datePublished: '2015-11-22T20:32:22.871Z'
+dateModified: '2015-11-22T20:32:13.875Z'
 title: '1Thought for November 22, 2015'
 author: []
 sourcePath: _posts/2015-11-22-1thought-for-november-22-2015.md
