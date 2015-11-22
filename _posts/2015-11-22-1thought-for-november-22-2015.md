@@ -1,14 +1,13 @@
 ---
-inFeed: true
-hasPage: false
+inFeed: false
+hasPage: true
 inNav: false
-isBasedOnUrl: null
 inLanguage: null
 starred: true
 keywords: []
 description: 'Our first thought we leave for you while we build the site!'
-datePublished: '2015-11-22T20:32:22.871Z'
-dateModified: '2015-11-22T20:32:13.875Z'
+datePublished: '2015-11-22T21:10:03.246Z'
+dateModified: '2015-11-22T21:09:52.050Z'
 title: '1Thought for November 22, 2015'
 author: []
 sourcePath: _posts/2015-11-22-1thought-for-november-22-2015.md
@@ -19,6 +18,7 @@ publisher:
   domain: null
   url: null
   favicon: null
+url: 1thought-for-november-22-2015/index.html
 _type: Blurb
 
 ---
@@ -27,3 +27,4 @@ We're live! We're building content on our new platform and will be launching ear
 "Integrity is doing the right thing, even when no one is watching."
 
 - C. S. Lewis
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/2076b800-d32f-4253-b75c-952949ef82ba.jpg)
