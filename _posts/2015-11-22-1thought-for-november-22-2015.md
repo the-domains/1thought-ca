@@ -7,9 +7,9 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Our first thought we leave for you while we build the site!'
-datePublished: '2015-11-23T18:44:04.316Z'
-dateModified: '2015-11-23T18:43:59.061Z'
-title: '1Thought for November 22, 2015'
+datePublished: '2015-11-23T18:44:50.252Z'
+dateModified: '2015-11-23T18:44:47.523Z'
+title: Our first thought
 author: []
 sourcePath: _posts/2015-11-22-1thought-for-november-22-2015.md
 published: true
