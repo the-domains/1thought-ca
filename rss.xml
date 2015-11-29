@@ -4,7 +4,7 @@
         <description><![CDATA[1thought.ca]]></description>
         <link>https://thegrid.ai/1thought-ca/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 27 Nov 2015 23:17:41 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 29 Nov 2015 07:38:41 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/1thought-ca/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Make intentional choices]]></title>
@@ -12,13 +12,6 @@
             <link>https://thegrid.ai/1thought-ca/make-intentional-choices/index.html</link>
             <guid isPermaLink="false">e2174c0d-b1ef-4d41-9f16-c33242ed112d</guid>
             <pubDate>Fri, 27 Nov 2015 23:16:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Have a thought to share?]]></title>
-            <description><![CDATA[<article><h1>Have a thought to share?</h1><p>Got a thought you'd like to share with us? Send it to info@1thought.ca and we'll have a look!</p></article>]]></description>
-            <link>https://thegrid.ai/1thought-ca/have-a-thought-to-share/index.html</link>
-            <guid isPermaLink="false">7ca8ff02-fdb9-496c-9ee6-1898d6a2f157</guid>
-            <pubDate>Sun, 22 Nov 2015 20:15:01 GMT</pubDate>
         </item>
     </channel>
 </rss>
